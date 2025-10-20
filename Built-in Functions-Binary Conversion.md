@@ -11,11 +11,11 @@ To write a Python program to convert the number **16** into its **binary represe
 
 ## 🧾 Program:
 
-a = 16 -----------# assigning 16 to a
+    a = 16            # assigning 16 to a
 
-b = bin(a) -------# converting decimal number to binary number using bin() built-in-function
+    b = bin(a)        # converting decimal number to binary number using bin() built-in-function
 
-print(b) ---------# to print b
+    print(b)          # to print b
 
 ## Output:
 
