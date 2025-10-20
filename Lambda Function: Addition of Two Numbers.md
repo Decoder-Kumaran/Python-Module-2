@@ -11,13 +11,13 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 ## 🧾 Program:
 
-a = int(input()) ----------# to get input-1 from the user
+    a = int(input())           # to get input-1 from the user
 
-b = int(input()) ----------# to get input-1 from the user
+    b = int(input())           # to get input-1 from the user
 
-sum = lambda a,b: a+b -----# defining a lambda function to add two numbers to the variable sum 
+    sum = lambda a,b: a+b      # defining a lambda function to add two numbers to the variable sum 
 
-print(sum(a,b)) -----------# to print the output of the lambda sum
+    print(sum(a,b))            # to print the output of the lambda sum
 
 ## Output:
 
