@@ -13,17 +13,17 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program:
 
-def result(a,b):     # Defining a function
+def result(a,b):     -----# Defining a function
 
     c = a % b        # taking ,modulus of a to b
     
     print(c)         # to print c
 
-a = int(input())     # getting a input-1 from user
+a = int(input())     ------# getting a input-1 from user
 
-b = int(input())     # getting a input-2 from user
+b = int(input())     ------# getting a input-2 from user
 
-result(a,b)          # calling a function result with parameters a & b
+result(a,b)          ------# calling a function result with parameters a & b
 
 ## Output:
 
