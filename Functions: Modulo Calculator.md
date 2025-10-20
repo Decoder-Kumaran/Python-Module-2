@@ -15,9 +15,9 @@ To write a Python program that defines a function which accepts two values and r
 
 def result(a,b): # Defining a function
 
-    c = a % b # taking ,modulus of a to b
+    c = a % b    # taking ,modulus of a to b
     
-    print(c) # to print c
+    print(c)     # to print c
 
 a = int(input()) # getting a input-1 from user
 
