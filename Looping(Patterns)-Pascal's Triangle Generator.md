@@ -49,4 +49,4 @@ To write a Python program that generates **Pascal's Triangle** using numbers. Th
 
 ## Result:
 
-Thus, The Python program that generates **Pascal's Triangle** using numbers. The number of rows is accepted from the user is verified.
+Thus, The Python program that generates **Pascal's Triangle** using numbers. The number of rows is accepted from the user was executed successfully.
