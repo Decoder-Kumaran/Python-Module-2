@@ -22,4 +22,4 @@ To write a Python program to convert the number **16** into its **binary represe
 <img width="905" height="126" alt="Screenshot 2025-10-20 161433" src="https://github.com/user-attachments/assets/3b7be924-612b-4c4c-bee9-bb6ff5687047" />
 
 ## Result:
-Thus, The Python program to convert the number **16** into its **binary representation** using built-in Python functions is verified.
+Thus, The Python program to convert the number **16** into its **binary representation** using built-in Python functions was executed successfully.
