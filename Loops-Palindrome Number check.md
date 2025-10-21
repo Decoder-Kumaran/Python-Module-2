@@ -36,4 +36,4 @@ To write a Python program that checks whether a given number is a **palindrome**
 
 
 ## Result:
-Thus, The Python program that checks whether a given number is a **palindrome** using loops is verified.
+Thus, The Python program that checks whether a given number is a **palindrome** using loops was executed successfully.
