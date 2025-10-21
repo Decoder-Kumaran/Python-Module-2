@@ -26,4 +26,4 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 ## Result:
 
-Thus, The Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum is verified.
+Thus, The Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum was executed successfully.
