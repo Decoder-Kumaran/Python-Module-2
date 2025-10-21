@@ -30,4 +30,4 @@ To write a Python program that defines a function which accepts two values and r
 <img width="761" height="240" alt="Screenshot 2025-10-20 162108" src="https://github.com/user-attachments/assets/3025db4d-c663-4cce-a2b9-44d8392c1f64" />
 
 ## Result:
-Thus, The Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator is verified.
+Thus, The Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator was executed successfully.
